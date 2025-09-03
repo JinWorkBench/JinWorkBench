@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 <!-- Badge -->
-[![Blog](https://img.shields.io/badge/-Tistory-orange?style=flat&logo=tistory)](https://devbrew.tistory.com/)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JinWorkBench)
+[![Blog](https://img.shields.io/badge/-Tistory-orange?style=flat&logo=tistory)](https://devbrew.tistory.com/){:target="_blank"}
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JinWorkBench){:target="_blank"}
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brilyent72@gmail.com)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=flat)](https://) -->
  
