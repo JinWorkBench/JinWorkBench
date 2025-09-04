@@ -67,6 +67,9 @@ Here are some ideas to get you started:
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<img width="55%" align="right" alt="JinWorkBench's github stats" src="https://github-readme-stats.vercel.app/api?username=JinWorkBench&show_icons=true&hide_border=true" />
-<img width="40%" align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinWorkBench&layout=compact" />
 
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinWorkBench&layout=compact" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JinWorkBench&show_icons=true&hide_border=true" width="45%" style="border:1px solid" />
+</p>
