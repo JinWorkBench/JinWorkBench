@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ### Data & State
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-18181B?style=flat)
+![Zustand](https://img.shields.io/badge/Zustand-18181B?style=flat)
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
